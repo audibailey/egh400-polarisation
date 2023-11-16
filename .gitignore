@@ -1,0 +1,8 @@
+build/
+install/
+log/
+tmp/
+src/auto_process
+src/process_data
+.DS_Store
+.idea
